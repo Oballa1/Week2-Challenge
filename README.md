@@ -1,7 +1,7 @@
 # Week2-Challenge
 Week1 : Code Challenge
 
-Date, 2024/3/24
+Date, 2024/3/31
 By Obala Steve
 Description
 There are three different codes for three different functions. I.e
